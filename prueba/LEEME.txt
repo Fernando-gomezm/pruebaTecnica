@@ -1,0 +1,12 @@
+Hola Ing.Sergio.
+Este es el link para acceder a la pagina.
+Para poder ejecutarla guarda la carpeta en tu carpeta "htdosc" de xampp.
+
+http://localhost/prueba/microbiologiainfo.php
+
+Tambien quería comentarte que investigué bastante para lograr solucinar las tareas que me solicitaste, pero lastimosamente solo logré esto poco...
+
+Gracias por haberte tomado el tiempo el día de la prueba para comunicarte conmigo.
+Buen día.
+
+Att: Luis Fernando Gómez Meza
